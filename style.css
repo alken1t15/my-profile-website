@@ -334,7 +334,7 @@ a:hover {
 .container5_href::before {
   content: "";
   position: absolute;
-  background-image: url(./img/st.svg);
+  background-image: url(img/st.svg);
   width: 24px;
   height: 24px;
   right: -28px;
@@ -355,7 +355,7 @@ a:hover {
 .container5_href_dark::before {
   content: "";
   position: absolute;
-  background-image: url(./img/st_dark.png);
+  background-image: url(img/st_dark.png);
   width: 24px;
   height: 24px;
   right: -30px;
